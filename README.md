@@ -52,3 +52,8 @@ flower-shop-catalog/
 - Hook to a real API (e.g., your backend or Firebase)
 - Add a contact/about page
 - Theme switch (light/dark)
+
+## screenshot of the project 
+<img width="1875" height="867" alt="image" src="https://github.com/user-attachments/assets/17ee0e34-ca76-4fc4-8612-6844a9d75f1a" />
+<img width="1019" height="819" alt="image" src="https://github.com/user-attachments/assets/a807c89b-34c9-4d00-bda0-dbb067989e19" />
+
